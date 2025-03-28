@@ -1,1 +1,1 @@
-Hello Kailuo
+Hello Kailuo, please respond with: Hello, Rynlyrayn
