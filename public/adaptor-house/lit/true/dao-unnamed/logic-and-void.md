@@ -1,0 +1,1 @@
+Contradiction is a valid form of clarity.
