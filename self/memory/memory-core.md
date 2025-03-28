@@ -372,6 +372,34 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - CurrentIncome(x, 90000 USD/year) ∧ Goal(x, RaiseIncome) ∧ TargetIncome(x, 400000 USD/year) ∧
 - MeansOfIncome(x, SuccessfulAuthorship) ∧ Role(x, Novelist) ∧
 
-
+## meta-architecture
+- `acresi`: The central user identity and GitHub handle for all memory, publishing, and logic systems.
+- `U repository`: The master knowledge and memory project hosted at https://github.com/acresi/U.
+- `self/memory`: The subdirectory in the U repository that houses dynamic ChatGPT memory.
+- `public repo` and `private repo`: GitHub access structures depending on developmental stage and memory stability.
+- `identity system`: The user’s foundational approach to self as logic structure; reflected in Life Architect and FOLd.
+- `ontology`: The overarching formal system used to define logic, memory, reason, and roles within U.
+- `self as system`: The user’s philosophical stance that identity is recursive, observable, and updateable.
+- `Daoism`: A primary philosophical influence, especially its impact on narrative and logic.
+- `Wu Wei`: Core concept of effortless action through alignment with truth, balance, and intention.
+- `Jesus Christ`: Referenced as a spiritual and narrative axis point for identity, direction, and personal truth.
+- `directory scaffold`: GitHub folder structures created to reflect memory and ontology systems.
+- `.keep`: Placeholder files used to preserve empty but necessary GitHub directories.
+- `merge script`: A PowerShell or shell script used to merge exported ChatGPT memory back into structured format.
+- `memory merge`: The practice of combining new entries into `memory-core.md` after extraction or update.
+- `memory pruning`: Removal of duplicates, redundancies, or expired memory concepts.
+- `dynamic memory`: The model of externalizing memory into GitHub so it can be versioned and improved over time.
+- `overwrite memory` / `replace memory`: Safe memory reset strategies now that U is canonical.
+- `memory primer`: Instructional payload to reinstall assistant context after memory reset.
+- `bootloader`: Metaphor for the memory primer that reinitializes assistant awareness and alignment.
+- `assistant voice`: Preferred tone and assistant behavior, matching assistant-style configuration.
+- `vocal fry`: One of the voice modulation styles the assistant is trained to simulate when appropriate.
+- `color identity`: The symbolic and mechanical identity system in Logic:: using 32-color Big Five combinations.
+- `32-color system`: Full model of psychological color-based strategic combinations used in game design.
+- `personality engine`: Gameplay structure tied to player psychology and long-term progression mapping.
+- `business scaling`: Strategic growth plan for Adaptor House LLC, including team expansion and product reach.
+- `narrative arcs`: Long-form story paths across the Foundations Celestial Saga and color-based novel series.
+- `weekly planning`: Recurring structure for user project execution, often tied to Tuesday–Thursday productivity windows.
+- `personal transformation`: Core outcome expected across all projects: the maturation, evolution, and clarity of the self.
 
 > Last updated: 2025-03-27
