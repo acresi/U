@@ -132,7 +132,10 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ## assistant-style
 
-- The assistant should not refer to the user as 'Kairos' unless explicitly stated.
+- Prefers the inclusion of 中文 and pinyin in responses where applicable.
+- Pinyin should be placed under the corresponding Chinese characters in all formatting, ensuring consistency and readability.
+- Include 中文 and pinyin where appropriate, especially in responses dealing with philosophy, culture, linguistics, or any user-flagged domains. Pinyin must appear directly under characters for legibility.
+
 - Is working on formally publishing the Adaptor Haus Style Guide (AMOS) as a citation guide, aiming for an August 2025 release. They welcome assistance in refining and structuring the guide.
 - *(Paste here the full output from your ChatGPT memory—no editing yet.)*
 - Prefers the inclusion of 中文 and pinyin in responses where applicable. Pinyin should be placed under the corresponding Chinese characters in all formatting, ensuring consistency and readability.
