@@ -1,0 +1,39 @@
+!the official structure for language preservation!
+
+    kailuo_list.md             ← Core vocabulary, now renamed to **Kailuo List**
+    sound_inventory.md         ← Phonological inventory (consonants, vowels, stress)
+    inventory/                 
+        pronunciation.md       ← Phonology, stress patterns, syllables, etc.
+        morpheme_inventory.md  ← Breakdown of morphemes (roots, affixes, etc.)
+        phonology.md           ← Detailed scientific phonology of Aurenna
+    dialect_mapping/           
+        generation_past.md     ← Linguistic features from past generations
+        generation_current.md  ← Present linguistic features
+        central.md             ← Central dialect features
+        west.md                ← Western dialect features
+        east.md                ← Eastern dialect features
+        south.md               ← Southern dialect features
+        north.md               ← Northern dialect features
+        border.md              ← Border dialect features
+        antiquity.md           ← Linguistic features of ancient Aurenna
+        colloquial.md          ← Informal, day-to-day speech
+    timeline/                   
+        vowel_shift_history.md ← Phonological changes over time
+        history.md             ← Key events in linguistic evolution
+    culture/                    
+        philology.md           ← Devoted study of language and dialects, motivated by love of the language
+        poetry.md              ← Poetic forms, verse, rhythm, applications, connections to culture and ritual
+        ritual.md              ← Ritual intent, beats, and implementations
+    lexicon/                   
+        dictionary.md          ← Core dictionary of words and terms
+        syntax.md              ← Sentence structure, word order
+        logic.md               ← Language logic and coherence rules
+        semantics.md           ← Word meanings and interpretation
+    orthography/              
+        usage_guide.md         ← Contextual usage examples
+        style_guide.md         ← Writing conventions, cultural notes
+        writing_system.md      ← Alphabet, orthographic rules
+    index/                     
+        entry_numbers.md       ← Persistent database IDs and indexing system
+        alignment.md           ← Cross-reference map between folders/files
+        glossary.md            ← Internal category taxonomy (elevated layer)
