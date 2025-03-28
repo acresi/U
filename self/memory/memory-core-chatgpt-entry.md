@@ -1,0 +1,1 @@
+memory-core-chatgpt-entry.md
