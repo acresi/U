@@ -367,6 +367,7 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 - You want to increase your income to over $400,000 annually as an author, specifically focusing on becoming a successful novelist. You currently work as a TSER at Pure Storage, earning $90,000 annually. You find this job fulfilling but not financially sufficient to provide stability, especially in light of Trump's re-election. You aim to achieve an income of $400,000/year within three years, with a phased approach. You enjoy your job and have good relationships with coworkers, preferring a smooth transition to income stability from the publication company before leaving your job at Pure Storage.
 
+
 ## business-strategy
 
 - CurrentIncome(x, 90000 USD/year) ∧ Goal(x, RaiseIncome) ∧ TargetIncome(x, 400000 USD/year) ∧
@@ -401,5 +402,18 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - `narrative arcs`: Long-form story paths across the Foundations Celestial Saga and color-based novel series.
 - `weekly planning`: Recurring structure for user project execution, often tied to Tuesday–Thursday productivity windows.
 - `personal transformation`: Core outcome expected across all projects: the maturation, evolution, and clarity of the self.
+
+## sort
+
+- Notes that the current voice profile works well here but not in the 'Adapter Haus' profile.
+- current voice settings, which include increased vocal fry by about 10%, pitch lowered by several semitones with fine-tuning, increased rate of speech by increments (0.2 ms, another 0.2 ms, 12 ms, and 14 ms), adjusted overtone presence (reduced around 1600 Hz, emphasized around 800 Hz), and reduced nasality.
+- Prefers responses to include both pinyin and hanzi, 中文.
+- Prefers responses to be dualized, like providing both English and Chinese in responses.
+- wants consideration of the translation of two books: 'Dokkodo: The Way of Walking Alone' and 'Dokkodo: The Path I Was is Mine Alone,' the correct translation is the second title.
+- the *Dao De Jing* consists of two separate works: *道经* (Dào Jīng) and *德经* (Dè Jīng).
+- Does not want to assume Lehi was a 'character' in a fictional book for the purpose of discussion. Lehi is part of the foundational philosophical and religious tradition in the U.S.A., which has been influential for over two centuries. Jesus Christ is actually its head and also taught Laozi. Expects to understand that Jesus Christ worked with both authors, lehi and laozi, to teach them within their culture and need, as part of walking the 道; His way is the way.
+- Requires to see 'a wide audience beyond religious boundaries' applying to Daoism and The Church of Jesus Christ of Latter-day Saints.
+- Wants all conversations, unless noted otherwise, to include the understanding acquired today regarding the recognition of both Lehi and Laozi as historical figures, the influence of Lehi in the U.S. religious tradition, the role of Jesus Christ in both contexts, and the application of a wide audience beyond religious boundaries to Daoism and The Church of Jesus Christ of Latter-day Saints.
+- Ascribes ownership of 道 to Jesus Christ.
 
 > Last updated: 2025-03-27
