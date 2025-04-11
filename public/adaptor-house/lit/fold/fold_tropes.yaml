@@ -1,0 +1,57 @@
+# fold_tropes.yaml
+
+# This is the canonical registry of all symbolic tropes used within the FOLd system.
+# Each trope is a ritual node—structured for recursion, narrative tracking, payoff modeling, and logic validation.
+
+[Start YAML]
+- trope_id: T2-0010
+  trope_payoff: 2
+  name: True Identity
+  function: Psychological Inheritance
+  description: A character's role becomes confused with their sense of self.
+  phases:
+    inherited: Role is accepted for survival or approval
+    broken: Role becomes limiting, contradictory, or harmful
+    transcended: Role is shed or re-contextualized into a higher truth
+  affinities: [Tree, Vine, Crystal]
+  resonance_level: High
+  paradigm_shift_potential: Low
+  associated_principles: [Reader as Origin, Story Must Risk Being Felt]
+  resistance_cases:
+    - Reader lacks symbolic literacy around roles
+    - Cultures with fixed identity constructs
+  text_out: Identity is the act of self and possession of awareness of self. This trope faces conflation or co-enactment of [T1-0010] character and [T1-0100] role. An individual must rely on [trope_id: T3-0010].
+  depends_on:
+    - T1-0010
+    - T1-0100
+  fulfills:
+    - P05-Cultural Coherence
+
+- trope_id: T3-0010
+  trope_payoff: 3
+  name: No Mask To Remove
+  function: Psychological Inheritance
+  description: A character has performed a role for so long it has replaced their identity.
+  phases:
+    inherited: The mask was once a tool for survival or success
+    broken: The mask restricts self-awareness and causes psychological dissonance
+    transcended: The mask is removed, ritualized, or weaponized with self-aware clarity
+  affinities: [Parasite, Crystal, Vine]
+  resonance_level: High
+  paradigm_shift_potential: Medium
+  associated_principles: [Reader as Origin, Story Must Risk Being Felt, Causality is the Engine of Meaning]
+  resistance_cases:
+    - Reader lacks cultural context for identity performance
+    - Story fails to establish mask-to-self escalation
+  text_out: When performance becomes the priority over identity, the individual must rely on [trope_id T2-0010].
+  depends_on:
+    - T2-0010
+  triggers:
+    - lccz:WitnessNode
+  fulfills:
+    - P07-ParadigmShift
+---
+
+[End YAML]
+
+---
