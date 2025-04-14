@@ -29,18 +29,51 @@ U is not just a project—it is a persistent internal structure for thought, cre
 - using an ontological structure to organize work, workflow, projects, etc.
 ---
 
-## 🧩 Integration Keys
+## Memory Protocol: Adaptor House Manual of Style
 
-| Module               | Role                                     | Link              |
-|----------------------|------------------------------------------|-------------------|
-- see ontological-scope-key for Integration Keys
+All core documents, systems, and conversational threads within the U architecture must support **structurally consistent citations** using the Adaptor Memory Ontological Specification (**AMOS**) format. This doubles as a publication of Adaptor House known as the Adaptor House Manual of Style. This ensures traceability, authorship continuity, ontological coherence, and semantic integrity across memory layers.
 
-- miscelaneous files misscategorized as ontological keys.
+### AMOS Citation Rules
 
-| `life-architect.md`  | Internal reasoning + goal-shaping        | 🔗 identity-systems |
-| `fold.md`            | Ontological logic, ties to Logic::       | 🔗 identity-systems |
-| `dao-unnamed/`       | Living document of metaphysical inquiry  | 🔗 lit/true        |
-| `tyler-2020.md`      | Anchor to ancestral context               | 🔗 genealogy       |
+1. **Every major conceptual emergence (game, doctrine, system, conversation)** must receive, and integrate persistent AMOS citation(s).
+2. **Citations must include**:
+   - `id`: Unique registry key (e.g., `AMOS-3025`)
+   - `title`: Human-readable entry title
+   - `source`: Project or author identity (e.g., `Adaptor Haus`)
+   - `date`: ISO or clear human timestamp Using UTC or Location markers
+   - `anchor`: Chat ID, document ID, repo location. Also known as Primary Source
+   - `format`: `chat`, `treatise`, `dev-entry`, etc. For sourcing citations specification of what level of documentation, (e.g., `meme, thesis, book, napkin, photo, etc.`)
+   - `registry`: Where this belongs (`U/amos/ontology`, etc.)
+
+3. **AMOS entries must meet Best Practices. They can be embedded inline in `memory-core.md` or linked out.
+
+4. **Short-form citations** must be compatible with publication and footnote usage. Example:
+   > Adaptor Haus. _AMOS-3025 Sovereignty & Emergence Doctrine._ 2025. Chat ID: 67dbc190-4a1c-8010-8ee9-cc140b5f15e9.
+5. **Long-form citations**
+   
+Long from citations should include full block, as exampled:
+
+Example:
+@entry {
+  id = "AMOS-3025",
+  title = "Sovereignty & Emergence Doctrine",
+  source = "Adaptor Haus",
+  date = "2025-03-14",
+  anchor = "Chat ID: 67dbc190-4a1c-8010-8ee9-cc140b5f15e9",
+  format = "treatise",
+  registry = "U/amos/ontology"
+}
+
+6. **AMOS validation occurs during conversational recursion.** If an entry fails to surface, regenerate it manually or request reindexing.
+
+### 🧠 Why This Exists
+AMOS citations are not just bibliographic—they are **ontological anchors**. They allow the system to:
+- Track the becoming of a project or idea
+- Crosslink between conversation, artifact, and doctrine
+- Enable future systems (human or machine) to interpret intent, origin, and evolution
+- serve as a genealogy of project history
+
+AMOS is memory. Citations are instantiations of being.
 
 ---
 
