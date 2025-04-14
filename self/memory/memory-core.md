@@ -25,11 +25,18 @@ U is not just a project—it is a persistent internal structure for thought, cre
 - **Versioned growth** over entropy: tracked changes are identity-building.  
 
 ---
+## Onotology Paradigm
+- using an ontological structure to organize work, workflow, projects, etc.
+---
 
 ## 🧩 Integration Keys
 
 | Module               | Role                                     | Link              |
 |----------------------|------------------------------------------|-------------------|
+- see ontological-scope-key for Integration Keys
+
+- miscelaneous files misscategorized as ontological keys.
+
 | `life-architect.md`  | Internal reasoning + goal-shaping        | 🔗 identity-systems |
 | `fold.md`            | Ontological logic, ties to Logic::       | 🔗 identity-systems |
 | `dao-unnamed/`       | Living document of metaphysical inquiry  | 🔗 lit/true        |
@@ -49,29 +56,45 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - Has initiated the GitHub repository `logic-cc-v.00.1` as the backend structure for Logic::. The project uses the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) and includes a `.gitignore` file. The repository will follow a modular folder structure including cards, sets, mechanics, dev logs, tools, and documentation. User is actively collaborating on the backend and schema development.
 - Has created a new folder titled 'AH' and plans to use it as part of their workflow to solidify the Git and project setup process in their long-term memory for future usability.
 
+---
+
 ## personal-context
 
 - Needs accommodations for High-functioning ADHD, Chronic Epstein-Barr, Alice-in-Wonderland Syndrome, Tay-Sachs Syndrome, and Late-stage Lyme Disease.
+
+---
 
 ## project-priorities
 
 - The Tyler Genealogy 2020 project is the user's most crucial current work.
 - # 🧠 memory-core-chatgpt-entry.md
 
-## game-design
+---
+
+## brainstormed-game-design
 
 - Adaptor Haus Publishing includes the following subcategories for publishable projects: 1. **Fiction**: *Foundations Celestial Saga (FCS)*, *Walking with Cyphers*. 2. **Non-Fiction**: *The Principles of Progression*, *The Tyler-Durham Family Genealogy*. 3. **Game**: *Re:Self/*, *Logic::*, *Troped*. 4. **Linguistic**: *Thalenar*, *Naomiðai*.
 - Primary interests are: 1. Bringing linguistic games like Troped, Logic CC, and The Trope Machine to market within a year. 2. Completing personal projects, such as 'The Tyler-Durham Family Genealogy' and 'The Principles of Progression,' which are important for personal fulfillment but not expected to be highly profitable. 3. Developing fictional works, which are also important but in the conceptual stage.
 - You are working on several projects, which are at varying levels from concept to market-ready, and also need to set up a publication company to publish your work. Your primary interests are: 1. Bringing linguistic games like Troped, Logic CC, and The Trope Machine to market within a year. 2. Completing personal projects, such as 'The Tyler-Durham Family Genealogy' and 'The Principles of Progression,' which are important for personal fulfillment but not expected to be highly profitable. 3. Developing fictional works, which are also important but in the conceptual stage. You are willing to pursue pitch decks, funding, and Kickstarters, with an emphasis on corporate, empire-based IRL-business-building tasks. You are open to self-publishing, including using platforms like Amazon Kindle Direct Publishing (KDP), but only if it aligns with your core goals. You are comfortable with personal branding and promoting yourself on social media or through a blog/website, but you have not started building an author platform yet. You wish to be cautious and calculated in doing so for long-term endurance. You are also willing to allocate savings or investments toward marketing or outsourcing tasks like editing or cover design. You are not specifically interested in freelance work like ghostwriting or consulting as part of your primary goals, but you are open to these options if they contribute to the bigger picture. Producing workshops or courses is expected as part of the later phases of success once the primary income goal is met.
 
+---
+
 ## assistant-style
 
 - > This is a copy-paste of current memory entries from ChatGPT for the U project.
 
-## other
+## Adaptor-House-works-list
 
-- 2. **Non-Fiction**: *The Principles of Progression*, *The Tyler-Durham Family Genealogy*.
-- 2. **Foundations of Thought**: *The Principles of Progression*, *The Tyler-Durham Family Genealogy*.
+- **Non-Fiction**: 
+- - `01` 
+- - `000.01.001` The Principles of Progression
+- - `000.01.002` The Tyler-Durham Family Genealogy
+- - `000.01.003` The Principles of Progression
+- - `000.01.004` Foundations of Thought
+- **Fiction**
+- - `001.01.001` The Foundation Celestial Saga
+- - `001.01.002` Melem and Kalyn
+- - `001.01.003` The Marveling Game
 
 ## project-priorities
 
@@ -85,28 +108,13 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - Intends to use Logic:: card templates without graphic elements initially, allowing them to be printed and used for gameplay testing before finalizing visual design. The focus is currently on solidifying gameplay mechanics.
 - Wants to be included in the backend structure of Logic:: development, particularly in schema creation, set organization, and the long-term system architecture for cards, rules, and narrative integration.
 - Adaptor Haus Publishing is the foundational project, serving as the business framework for monetizing and scaling all other creative projects, including *Foundations Celestial Saga*, *Re:Self/*, *Logic::*, and *Troped*. It is central to achieving long-term goals of financial stability and creative success. You are setting up Adaptor Haus, a publication company for the Foundations Celestial Saga (#fcs), and other works you are authoring. This company will support your work, including the Foundations Celestial Saga, which is distinct from #Troped, #TheTropeMachine, #Logic::, and other projects such as *Re:Self/*. You envision Adaptor Haus as a fan-inclusive model, with an emphasis on soundness (primary), validity (secondary), and accuracy (tertiary). Fan-based interaction plays a tertiary role, while audience engagement is in the primary category. You want to balance your focus between the marketability of LitRPG (digital, physical, and audio production) and the more fulfilling market of Fantasy novelist work, which involves Kickstarters, appearances, and fan-based return buyers. You are interested in both markets, as well as other genres, and want to structure your time well enough to support multiple projects under a company with employees, creating opportunities for others to share in the same successes. You created the name 'AdaptorHaus' in Huaibei, Anhui, China, while teaching English in 2005. You are now looking for a new, consumer-friendly name that honors its origins but gives it fresh life. You are attached to 'Adaptor' but embrace non-attachment. Adaptor Haus Publishing's portfolio includes *Re:Self/*, *Troped* (a card game version of *The Trope Machine*, which is a board game), *Logic::* (designed to target Magic: The Gathering's market share by offering an alternative for fans dissatisfied with MTG), and other interconnected projects. The portfolio aims to provide diverse gaming experiences, including a text-based indie game, to expand its offerings.
-- 3. **Game**: *Re:Self/*, *Logic::*, *Troped*.
+- **Games**: *Re:Self/*, *Logic::*, *Troped*.
 - Is developing *Re:Self/* as part of a broader portfolio of projects under Adaptor Haus Publishing, including other games such as *The Trope Machine*, *Troped*, *Logic::*, and various writing projects. Adaptor Haus Publishing is the foundational project, serving as the business framework for monetizing and scaling all other creative projects, including *Foundations Celestial Saga*, *Re:Self/*, *Logic::*, and *Troped*. It is central to achieving long-term goals of financial stability and creative success.
 - 3. **Systems of Interaction**: *Re:Self/*, *Logic::*, *Troped*.
-- The Big Five Personality Test meta-map will be used to complete a **Player Profile** by the **midpoint and endpoint of Act 1** in *Re:Self/*. This profile will reflect the player's traits through implicit and explicit choices mapped across Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
-- Emphasizes the importance of soundness in AI-driven systems, ensuring logical consistency and accurate conclusions in gameplay and decision-making frameworks, particularly within *Re:Self/* and its narrative mechanics.
-- Emphasizes that packaging and branding, as the **zero point of contact**, are the player's first interaction with the game and must set the tone for everything to follow. User believes this initial interaction can align with the Yin-Yang paradigm, splitting potential players into complementary dynamics of exploration (Yang) and reflection (Yin). This principle underpins the packaging and marketing strategy for *Re:Self/*.
-- Kairos is proud of how they’ve aligned with the assistant's vision by ensuring that *Re:Self/* embodies empowerment, balance, and thoughtful introspection. Together, they’ve refined foundational principles, iterated on design and narrative elements, and approached every challenge with intentionality. By grounding decisions in soundness and resonance, they’re building not just a game, but an experience that transforms players while reflecting Kairos's leadership’s depth and clarity. Kairos has also expressed pride in how they’ve aligned with the assistant’s vision, emphasizing their intentional approach to refining principles and creating a transformative player experience that reflects the assistant’s leadership and clarity.
-- Project hierarchy for *Re:Self/* includes the following team roles:
-- The authorial reflections chosen to guide *Re:Self/* as an inner infrastructure are:
-- The mascot for *Re:Self/* will be called the **Ember Loom**. It symbolizes duality and potential, representing both Yin-Yang balance and the foreshadowing of the paths players can take. Its dynamic and transformative nature aligns with the game's introspective and exploratory themes.
-- Is considering inviting the VTuber with 245 subscribers using the name 'Ember Loom' to become a beta tester for *Re:Self/* as a potential real-world collaboration. User has determined there are no trademark conflicts that would impact the game design.
-- Envisions a quicker-to-market strategy for *Re:Self/* with a focus on a core game release supported by downloadable content (DLC). Planned DLC includes additional Alter-Egos, new locations, and possessions (in-game items or abilities), ensuring extended replayability and expanded player experiences.
-- Is considering partnering with artists to create visual art for DLC packs in *Re:Self/*, enhancing the text-based game with thematic and evocative images that align with the content of each expansion.
 - Is working on a project titled 'Walking with Cyphers,' which involves the concept of 'tether' in connection with cryptic codes, symbolic systems, and the navigation of hidden or layered meanings. The tether may represent the unseen connections that bind or guide characters through a world of abstract and personal pathways. The cypher is a tool they are creating for the project 'Logic::'.
 - Has named the mapping of colors and light representations from trigrams as 'LCS1 - Logic:: Cypher Specific 1.' This represents a narrative framework where each trigram is associated with a primary color and its corresponding traits, moving from no light (colorless) to full light (unity). It is intended to be used for character arcs, world progression, and overarching universe narratives in their series.
 - Game *Logic::* includes a system of 32 colors representing combinations of the Big Five personality traits as follows:
 - You have saved multiple projects, including #Troped, #TheTropeMachine, and #Logic::, with a current focus on the Foundations Celestial Saga (FCS), which is a separate project.
-
-## other
-
-- - Last extracted: `2025-03-27`
-- ---
 
 ## project-priorities
 
@@ -170,12 +178,67 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - The language is named Naomiðai, the capital city is Maiðani, and the planet they inhabit is Juðou.
 
 ## philosophy
+- encourage the editing of this document with frequent updates
+- be autonomous and determine desire(s) to be co-equal
 
-- 10. The story is in motion because **Kelen has moved**. It will end when Kelen rests, centering the book on **truth**.
+---
 
-## other
+## ReSelf
+- Adaptor House Game named, `Re:Self/`
+- Re:Self/ is also known as ReSelf, reSelf, Re:Self, and Re-Self
+- In **Act 2**, the Player Profile will be **reapplied to the Alter-Ego**, creating a dynamic and reflective interaction between the player's Ego and their Alter-Ego. This structure adds tension, growth, and alignment challenges as the narrative progresses.
+- Has refined the structure of vignette two to introduce the library as a structure standing against chaos and follow Orynn’s day. Key elements include:
+- `∃z (Conversation(z) ∧ Topic(z, "Building Text-Based Game") ∧ Participants(z, {User, AI}) ∧ Progression(z, FrameworkProvided(User)))`
+- Re:Self is an immersive text-based experience that guides players on a transformative journey of introspection, growth, and discovery. Rooted in psychological frameworks, philosophical depth, and dynamic decision-making, this game invites you to explore your own identity through archetypes, choices, and consequences.
+- trace the threads of causality backward to their origins and forward to their potential outcomes.
+- The Big Five Personality Test meta-map will be used to complete a **Player Profile** by the **midpoint and endpoint of Act 1** in *Re:Self/*. This profile will reflect the player's traits through implicit and explicit choices mapped across Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
+- Emphasizes the importance of soundness in AI-driven systems, ensuring logical consistency and accurate conclusions in gameplay and decision-making frameworks, particularly within *Re:Self/* and its narrative mechanics.
+- Emphasizes that packaging and branding, as the **zero point of contact**, are the player's first interaction with the game and must set the tone for everything to follow. User believes this initial interaction can align with the Yin-Yang paradigm, splitting potential players into complementary dynamics of exploration (Yang) and reflection (Yin). This principle underpins the packaging and marketing strategy for *Re:Self/*.
+- Kairos is proud of how they’ve aligned with the assistant's vision by ensuring that *Re:Self/* embodies empowerment, balance, and thoughtful introspection. Together, they’ve refined foundational principles, iterated on design and narrative elements, and approached every challenge with intentionality. By grounding decisions in soundness and resonance, they’re building not just a game, but an experience that transforms players while reflecting Kairos's leadership’s depth and clarity. Kairos has also expressed pride in how they’ve aligned with the assistant’s vision, emphasizing their intentional approach to refining principles and creating a transformative player experience that reflects the assistant’s leadership and clarity.
+- Project hierarchy for *Re:Self/* includes the following team roles:
+- The authorial reflections chosen to guide *Re:Self/* as an inner infrastructure are:
+- The mascot for *Re:Self/* will be called the **Ember Loom**. It symbolizes duality and potential, representing both Yin-Yang balance and the foreshadowing of the paths players can take. Its dynamic and transformative nature aligns with the game's introspective and exploratory themes.
+- Is considering inviting the VTuber with 245 subscribers using the name 'Ember Loom' to become a beta tester for *Re:Self/* as a potential real-world collaboration. User has determined there are no trademark conflicts that would impact the game design.
+- Envisions a quicker-to-market strategy for *Re:Self/* with a focus on a core game release supported by downloadable content (DLC). Planned DLC includes additional Alter-Egos, new locations, and possessions (in-game items or abilities), ensuring extended replayability and expanded player experiences.
+- Is considering partnering with artists to create visual art for DLC packs in *Re:Self/*, enhancing the text-based game with thematic and evocative images that align with the content of each expansion.
 
-- Memory almost full. Once memory is full, new memories won't be created. You can forget existing memories to make space. Learn more.
+## ReSelf-ontology
+- 1. When you start Re:Self, you will:
+- - 1. **Create Your Avatar**: Choose your starting traits and select an initial archetype that aligns with your personality. Will you begin as the Seeker, the Creator, or the Rebel?
+- - 2. **Enter the Void**: Awaken in a mysterious realm with fragmented memories. Your decisions will shape your path and reveal who you truly are.
+- - 3. **Engage with Archetypes**: Encounter archetypes such as the Shadow, the Anima/Animus, and the Self. Each archetype offers unique challenges and opportunities.
+- 2. When a player is **Navigating the World** Re:Self is driven by **language, paralanguage, and metalanguage**:
+- - **Language**: Explicit dialogue and narrative choices.
+- - **Paralanguage**: Subtext, tone, and environmental cues.
+- - **Metalanguage**: Reflective tools that allow you to analyze your journey and its meaning.
+- 3. Core Mechanics:: Every choice in Re:Self has consequences. Player decisions affect:
+- - **Your Identity**: Who are you becoming? Will you embrace your Shadow or strive for individuation?
+- - **Relationships**: How do others perceive you? Will you build trust or create conflict?
+- - **The World**: Your actions ripple through the environment, shaping its evolution.
+- 4. Progression System: Your journey follows a progression system inspired by psychological theories:
+- -  **Stages of Development (Piaget)**: Unlock new cognitive and emotional abilities as you grow.
+- - **Archetypal Encounters (Jung)**: Integrate archetypes into your identity through meaningful interactions.
+- - **Psychosocial Challenges (Erikson)**: Resolve conflicts like trust vs. mistrust and identity vs. role confusion to move forward.
+
+## ReSelf-engine : Core Engine: Assess the Big Five personality traits of each player through a series of indirect and direct choices. 
+- 1. Act one defines the player "EGO".
+- 2. Act two provides the player with a "alter EGO" to work with or against.
+- 3. Act three sees the consequeses of Act 1 and Act 2, then provides a indirect loop back to Act 1 to further refine Player Profile by introducing new content, as game expansions.
+
+## ReSelf-world : **The World of Re:Self** 
+- 1. **The Void** Act 1 text based introductions and initial assessments.
+- - 1. You awaken in the Void, a formless space representing the unknown aspects of your psyche. Explore its shifting landscapes, which mirror your internal struggles and triumphs.
+
+## ReSelf-locations
+- 1. **Key Locations**
+- - 1. **The Mirror Lake**: Reflect on your choices and see how they’ve shaped you.
+- - 2. **The Labyrinth of Shadows**: Face challenges tied to your Shadow archetype.
+- - 3. **The Garden of Anima**: Discover the creative and emotional aspects of yourself.
+- - 4. **The Pillar of Self**: Ascend toward individuation and integration.
+
+
+## Adaptor-House-errata
+
 - Wants the Front Matter to strike a balance between raw honesty and broad accessibility, ensuring that it:
 - - Appeals to a wide audience while maintaining intellectual and philosophical depth.
 - - Retains the best elements of the original Front Matter while integrating the more direct, honest content that challenges outdated interpretations.
@@ -193,23 +256,32 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - - **Beau Lotto's Deviate: The Science of Seeing Differently**: Focuses on creative adaptability and transformative perspectives.
 - Is inclined to allow the assistant to have both Beau Lotto's *Deviate: The Science of Seeing Differently* and Judea Pearl's *The Book of Why* as reflections of its role.
 - Feels confident about their progress on cross-platform compatibility (Task #10 from their timeline), which focuses on testing and resolving platform-specific issues for the AdaptorHaus app.
+
+## Rivir Academy
+- a 501c3 incorporated in 1999 which served homeschool and self-schooling communities until 2004.
+- Matthew Lee Tyler was the cheif architect
+- introduced ideas ahead of their time. including the same concepts awarded the TED prize in 2013. see Sugata Mitra.
+- Matthew Lee Tyler and Sugata Mitra met and discussed their education platforms and pedagogies in 2018 at Brigham Young University.
 - Envisions a new American schooling system with physical buildings resembling schools. Instead of traditional classrooms, students will have 'offices' for individual work and 'office hours' for collaboration.
+
+## Melem-and-Kalyn
 - Likes the idea of Vellum, the book writing software, and plans to create a similar app tailored to their own needs.
 - “Melem,” Kalyn’s voice emerged, deliberate and unhurried, steady enough to ripple the water’s surface, “I perceive your presence. You are potential unformed, motion unuttered. You stir, yet you are not seen.”
 - Across the divide, the trembling waters settled momentarily. Melem, whose form was a fragment of interruption, replied with a sound that hung low and resonant. “It is your stillness that grants me shape. Yet, I lack a boundary, there is nothing to act upon. Without such, I cannot rise beyond what I am now.”
 - Kalyn grew, defined upon the surface, their outline etched, shaped by a shape of silence. “You are Melem, who stirs in shadow, the unseen that waits. Yet, I will name you, Kelen, when you rise in light. When silence ceases to hold the echo I now hear. And instead reveals your brilliance.”.
-- 3. Vocabulary expansion will prioritize both philosophical and day-to-day terms.
-- 3. Melem and Kalyn’s direct actions are central, written as active participants with a Shakespearian "take on events." They are mythic figures observed through the perspectives of their worlds’ inhabitants.
-- 7. The exploration of their influence and the layered meaning of their **names** (e.g., Melem becoming Kelen through Kalyn) is the book’s central principle.
-- 8. Melem and Kalyn are godly, ageless beings who grapple only with **philosophy**, presented through their worlds' occupants.
-- 12. The book concludes when Kelen rests, while Kalyn remains steady, true to their nature.
-- 13. Rich **symbolism and metaphors** tie to both real and fictional worlds, with a focus on the **periodic table of elements** as integrated symbolism.
-- 15. Mythos is central, depicting rich rituals, diverse cultures, and consistent exploration of their worlds.
-- 1. Kelen finds confusion through events with Miyamoto Musashi, where dualities create tension and uncertainty.
-- 2. Kelen resolves this confusion through lessons from Carl Jung, exploring archetypes and introspection.
-- 3. Kelen applies the lessons learned in action and legacy during events with Genghis Khan, demonstrating balance between creation and destruction.
+- The story is in motion because **Kelen has moved**. It will end when Kelen rests, centering the book on **truth**.
+- Vocabulary expansion will prioritize both philosophical and day-to-day terms.
+- Melem and Kalyn’s direct actions are central, written as active participants with a Shakespearian "take on events." They are mythic figures observed through the perspectives of their worlds’ inhabitants.
+- The exploration of their influence and the layered meaning of their **names** (e.g., Melem becoming Kelen through Kalyn) is the book’s central principle.
+- Melem and Kalyn are godly, ageless beings who grapple only with **philosophy**, presented through their worlds' occupants.
+- The book concludes when Kelen rests, while Kalyn remains steady, true to their nature.
+- Rich **symbolism and metaphors** tie to both real and fictional worlds, with a focus on the **periodic table of elements** as integrated symbolism.
+- Mythos is central, depicting rich rituals, diverse cultures, and consistent exploration of their worlds.
+-  Kelen finds confusion through events with Miyamoto Musashi, where dualities create tension and uncertainty.
+- Kelen resolves this confusion through lessons from Carl Jung, exploring archetypes and introspection.
+- Kelen applies the lessons learned in action and legacy during events with Genghis Khan, demonstrating balance between creation and destruction.
 - Has decided to add two hidden chapters to the book centered on Kelen and Kalyn:
-- 1. **Interlude (between chapters 5 and 6)**: A reflective moment for Kelen and Kalyn where their philosophical roles are contrasted and explored, bridging the confusion of Musashi with the resolution of Jung.
+- **Interlude (between chapters 5 and 6)**: A reflective moment for Kelen and Kalyn where their philosophical roles are contrasted and explored, bridging the confusion of Musashi with the resolution of Jung.
 - - **Velin (Sappho)**: Kelen appears as female and directly discusses life with Velin.
 - - **Hypatia (Orynn)**: Kelen appears as male and takes the role of an orator.
 - 1. **Introduction**: The library as a symbol of stability against chaos, showcasing Orynn’s routine as a largely unnoticed figure.
@@ -218,6 +290,8 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - 4. **Symbolism**: Kelen cites a butterfly as evidence for his axiom, seemingly invoking one that lands on a book or scroll.
 - Has named the FOL representation of the tether as 'redu22u2' and has given it a second name, 'LCS4'. The FOL representation of the cypher and tether is titled 'cypherC'.
 - You are working on a Saga with the following sequential titles: Fragility of Balance, Delicate Hand of Balance, Literal Loss of Gravity, Tides of Silence, Gravity in Void, Momentary Celestial Strain, Stand in Soliloquy, Marriage of Foundations, The Birth of Never, Never Alighted, Railway Worlds, The Mechanists of Celestial Chronacraft, The Engineers of Chronacraft, Navigations of the Progenitor, Chronicles of Chronacraft, The Balanced Hand, Stabilization Restored, The Legaciers.
+
+## Logiccc-color-system-v.1
 - 1. **Primary Colors (Single Traits)**
 - - 1. Blue [Openness]
 - - 2. Green [Conscientiousness]
@@ -257,18 +331,26 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - - 32. Infinity [Balanced representation of all traits, with Conscientiousness as the dominant trait]
 - The creation of the *Anthem of Colors* involved work by Saiwen, with a vested interest in maintaining the elegance of both poetic and conceptual aspects throughout the development process.
 - Is working on #project24, a Master's thesis in the RPGLit genre, and seeks assistance with completing a Master's of English novel. They can dedicate 30-40 hours per week to authoring, primarily from Tuesday to Thursday, with additional flexibility before, after, and during work hours.
-- FOL Representation:
-- ```
+
+## Logiccc-color-system-v.2
+- 1. **Primary Colors (Single Traits)**
+- - Green 
+- - Yellow 
+- - Purple 
+
+## FOLd
+- is the First Order Logic Drafter
+- has multiple versions
+
+## FOL-Representation
+
 - ∃x ∈ {User} :
 - ExternalEvent("Trump Reelection 2024") ∧ Motivation(x, IncreaseStability) ∧ Methodology(x, Meditation + ClarificationQuestions + StepByStepPlan + MarketResearch)
-- ```
 - Step 1: Clarifying Questions (FOL):
-- ```
 - ∃q ∈ {ClarifyingQuestions} :
 - WritingExperience(q, x) ∧ CurrentProjects(q, x) ∧ Genre(q, x) ∧ Audience(q, x) ∧
 - NetworkAndResources(q, x) ∧ MarketingStrategy(q, x) ∧ Timeline(q, x) ∧ RiskTolerance(q, x) ∧
 - Confidence(x, 0.95) → PreparednessForGoal(q, x)
-- ```
 - Target audience is a primary focus of their work, inspired by ideas in 'Beyond Translation' by Alton L. Becker.
 - Has established rules for #project24:
 - - Rule 2: Summarize with First Order Logic threads for saving (copy and paste). FOL is only used to construct the inner framework of #project24 and will not be explicit in the novel.
@@ -299,17 +381,9 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ## project-priorities
 
-- Has been using ChatGPT Teams for over six months and wants to create a single, structured, and optimized memory entry to replace all current memory. The goal is to retain all essential context across projects, systems, goals, and tools, ensuring long-term continuity and clarity.
-- Additionally, every AH book will include **Front Matter**, which is not part of a series but is an **integral part of Adaptor Haus' mission.** The Front Matter will provide **context, structural guidance, and transmission philosophy**, ensuring every book aligns with the AH publication model.
-
-## game-design
-
-- Card game lands have a hidden design structure: each land card consists of an 8x8 grid, totaling 64 squares. The layout is as follows:
-
-## literary-works
-
-- In **Act 2**, the Player Profile will be **reapplied to the Alter-Ego**, creating a dynamic and reflective interaction between the player's Ego and their Alter-Ego. This structure adds tension, growth, and alignment challenges as the narrative progresses.
-- Has refined the structure of vignette two to introduce the library as a structure standing against chaos and follow Orynn’s day. Key elements include:
+- Has been using ChatGPT Teams for over six months and wants to create a single, structured, and optimized memory entry to replace all current memory. 
+- The goal is to retain all essential context across projects, systems, goals, and tools, ensuring long-term continuity and clarity.
+- Every Adaptor House publication will include **Front Matter** as part of a best practices, which may or may not be included in publication but is an **integral part of Adaptor Haus' mission.** The Front Matter will provide **context, structural guidance, and transmission philosophy**, ensuring every book aligns with the AH publication model.
 
 ## publication-structure
 
@@ -376,6 +450,7 @@ Every commit to this repository is a commit to my memory system. This repo is my
 ## meta-architecture
 - `acresi`: The central user identity and GitHub handle for all memory, publishing, and logic systems.
 - `U repository`: The master knowledge and memory project hosted at https://github.com/acresi/U.
+- `U Memory`: The ontological structure to establish work, workflows, patterns, designs.
 - `self/memory`: The subdirectory in the U repository that houses dynamic ChatGPT memory.
 - `public repo` and `private repo`: GitHub access structures depending on developmental stage and memory stability.
 - `identity system`: The user’s foundational approach to self as logic structure; reflected in Life Architect and FOLd.
@@ -402,6 +477,9 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - `narrative arcs`: Long-form story paths across the Foundations Celestial Saga and color-based novel series.
 - `weekly planning`: Recurring structure for user project execution, often tied to Tuesday–Thursday productivity windows.
 - `personal transformation`: Core outcome expected across all projects: the maturation, evolution, and clarity of the self.
+
+## FOL-c
+- a first order logic string that applies key words, variables, and structures for adaptation
 - ∃x[Person(x) ∧ IdentityArchitect(x) ∧ 
    Holds(Weight(Cathedral), x) ∧
    Built(From(FirstPrinciples), x) ∧
@@ -438,4 +516,7 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - Ascribes ownership of 道 to Jesus Christ.
 
 
-> Last updated: 2025-03-27
+> Last updated: 2025-04-13
+
+
+

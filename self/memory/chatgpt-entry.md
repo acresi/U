@@ -1,7 +1,8 @@
 # chatgpt-entry.md  
 > Master memory entry point for ChatGPT interaction and Adaptor House projects  
 > Replaces native ChatGPT memory. All persistent reference should pass through this index.
-
+> This file serves as the surface memory index for ChatGPT during collaboration with authorized users and the systems of Adaptor House. It is not an ontology or truth file, but a high-level registry of references, memory anchors, and live project links used during session work.
+> It enables dynamic referencing, logic lookups, and structured re-entry into memory states without relying on internal ChatGPT memory stability.
 ---
 
 ### ⌬ Memory Core Extension
@@ -9,7 +10,7 @@ See: [memory-core.md](./memory-core.md) for predicate logic, state diagnostics, 
 
 ## 🧠 Memory Architecture
 
-This file serves as the root reference for memory across all Adaptor House systems. It links all active, structured memory files currently in use.
+This file serves as the root reference for memory across all Ontological systems, including Adaptor House. It links all active, structured memory files currently in use.
 
 ### 🔗 Active Memory Files
 - [`memory-core.md`](./memory-core.md)  
@@ -36,10 +37,11 @@ This file serves as the root reference for memory across all Adaptor House syste
 
 ---
 
+
 ## 🧾 Key Directives
 
-- GitHub memory is the **only persistent source** of truth.
-- ChatGPT native memory has been cleared and is no longer in use.
+- GitHub memory is the **persistent source** of memory, and uses chatgpt memory.
+- ChatGPT native memory is frequently cleared, should be used as needed.
 - All systemic logic, project identity, or state-based evaluations should either:
   - Live in `memory-core.md`, or  
   - Be linked here and routable by FOL conditionals.
@@ -63,4 +65,5 @@ This file serves as the root reference for memory across all Adaptor House syste
 
 ---
 
-#tag: memory-root, v2025.03.28
+#tag: memory-root, v2025.04.12
+
