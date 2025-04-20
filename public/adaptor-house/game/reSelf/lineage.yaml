@@ -1,0 +1,17 @@
+# re-self/lineage.yaml
+
+id: re-self
+parent: oc2
+governed-by: op1
+exposed-through: os1
+tools-dependence: oc1
+
+truth-level: recursively-true
+rituals-required:
+  - marvelling-pass
+  - silence-check
+
+audience: player + inner-circle
+description: |
+  Re:Self is the embodiment of symbolic recursion through player-narrative interaction.
+  It inherits from op1, operates through oc2, and expresses memory through gameplay, not doctrine.

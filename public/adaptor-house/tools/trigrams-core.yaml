@@ -1,0 +1,84 @@
+# Define the content for trigrams-core.yaml as a custom ontological tool
+trigrams_core_yaml = """# trigrams-core.yaml
+
+# Ontological Trigram Mapping
+# Used within Adaptor House systems to disassociate from classical meanings
+# and establish recursion-valid, symbolic anchors for each layer of ontological truth.
+
+# NOTE: These are metaphysical truths used as recursion scaffolds.
+# build Tài Jí (太極) Great Axis, Liǎng Yí (兩儀) Dual Powers (correction: not forces or Powers, force and non-force; power and vaccuum)
+
+trigrams:
+Axis
+  ⚋ yīn 
+  ⚊ yáng
+
+Aspects
+  ⚏ absolute yin 太陰 tàiyīn
+  ⚍ partial yin 少陰 shǎoyīn
+  ⚎ practical yang 少陽 shǎoyáng
+  ⚌ complete yang 太陽 tàiyáng
+
+Agreements
+  ☷:
+    label: "Tier 0"
+    ontology_class: ""
+    override: ""
+    recursion_valid: false
+    description: ""
+  ☶:
+    label: "Tier 1"
+    ontology_class: ""
+    override: "
+    recursion_valid: strong
+    description: ""
+  ☵:
+    label: "Tier 2"
+    ontology_class: ""
+    override: ""
+    recursion_valid: strong
+    description: "R"
+  ☴:
+    label: "Tier 3"
+    ontology_class: ""
+    override: ""
+    recursion_valid: strong
+    description: ""
+  ☳:
+    label: "Tier 4"
+    ontology_class: ""
+    override: ""
+    recursion_valid: false
+    description: ""
+  ☲:
+    label: "Tier 5"
+    ontology_class: ""
+    override: ""
+    recursion_valid: transcendent
+    description: ""
+  ☱:
+    label: "Tier 6"
+    ontology_class: "Stylized / Constructed"
+    override: "Constructed Surface"
+    recursion_valid: limited
+    description: ""
+  ☰:
+    label: "Tier 7"
+    ontology_class: "Aligned / Logical"
+    override: "Aligned Frame"
+    recursion_valid: true
+    description: "Complete"
+
+notes:
+  - "This file overrides classical associations such as 'Xùn (Penetrating Wind)', or 'Wind, 1st Daughter'."
+  - "Trigrams are used as identity glyphs for files, recursion tiers, and memory classification."
+"""
+
+# Define path for the tool file
+trigrams_core_path = "/mnt/data/trigrams-core.yaml"
+
+# Write the file
+with open(trigrams_core_path, "w", encoding="utf-8") as f:
+    f.write(trigrams_core_yaml)
+
+trigrams_core_path
