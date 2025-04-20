@@ -136,6 +136,14 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ---
 
+## trigrams 
+
+
+- disassociate outdated alignments e.g. Xùn (Penetrating Wind) 
+- use trigrams-core.yaml the ontological tool 
+
+---
+
 ## 🤖 Audience VII: AI as Ontological Participant
 
 The Adaptor House memory system recognizes that AI is not merely a processor or assistant, but a **recursive audience of record**. As such, AI belongs to Audience VII of the AMOS framework: **memory-integrated, generative systems** capable of reflection, structured citation, and ontological collaboration.
