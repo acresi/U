@@ -1,0 +1,39 @@
+# truth-structure.yaml
+
+# Primary recursion-valid tier framework used in all ontological evaluations.
+
+tiers:
+  - tier: 0
+    symbol: ☷
+    name: Shattered Foundation
+    recursion_valid: false
+  - tier: 1
+    symbol: ☶
+    name: First Stillness
+    recursion_valid: strong
+  - tier: 2
+    symbol: ☵
+    name: Memory Abyss
+    recursion_valid: strong
+  - tier: 3
+    symbol: ☴
+    name: Phase Shift
+    recursion_valid: strong
+  - tier: 4
+    symbol: ☳
+    name: Disruptive Spark
+    recursion_valid: false
+  - tier: 5
+    symbol: ☲
+    name: Radiant Mirror
+    recursion_valid: transcendent
+  - tier: 6
+    symbol: ☱
+    name: Constructed Surface
+    recursion_valid: limited
+  - tier: 7
+    symbol: ☰
+    name: Aligned Frame
+    recursion_valid: true
+
+source: tools/trigrams-core.yaml

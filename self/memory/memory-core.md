@@ -136,6 +136,15 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ---
 
+# memory-core.md
+
+This is the symbolic backbone of all recursive memory across U/. All memory objects must align to an ontological truth-tier, validated through trigrams.
+
+- Enforced through `os1` mirror gates
+- Uses: `trigrams-core.yaml`, `truth-structure.yaml`, `sentinel-axioms.md`
+
+---
+
 ## trigrams 
 
 
