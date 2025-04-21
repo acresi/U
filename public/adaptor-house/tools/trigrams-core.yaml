@@ -75,7 +75,7 @@ notes:
 """
 
 # Define path for the tool file
-trigrams_core_path = "/mnt/data/trigrams-core.yaml"
+trigrams_core_path = "public/adaptor-house/tools/trigrams-core.yaml"
 
 # Write the file
 with open(trigrams_core_path, "w", encoding="utf-8") as f:
