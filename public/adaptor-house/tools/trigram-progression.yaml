@@ -1,0 +1,99 @@
+progression_map:
+  - from: Axis
+    to: Aspects
+    condition: "Recognition of polarity (Yin and Yang) as co-arising, not oppositional"
+    mechanism: "Initiation through deviation"
+  - from: Aspects
+    to: Agreements
+    condition: "Experience and integration of all four Aspects"
+    mechanism: "Consent to resonance; narrative or ritual completion"
+
+entry_conditions:
+  axis:
+    prerequisites: []
+    entry_phrase: "Begin where tension lives"
+  aspects:
+    prerequisites: ["Embodied both Yin and Yang"]
+    entry_phrase: "Let difference emerge"
+  agreements:
+    prerequisites: ["Traversed all Aspects", "Aligned with one Trigram signature"]
+    entry_phrase: "Consent to the pattern"
+
+narrative_hooks:
+  axis: "Presence of ambiguity and duality in the character's perception"
+  aspects: "First encounter with paradox or internal contradiction"
+  agreements: "Ritual, recognition, or surrender event—reader is not passive"
+  
+---
+
+axis:
+  description: "The original polarity—yin and yang—coexistent and interdependent. All deviations emerge from this tension."
+  states:
+    - name: Yin
+      symbol: ⚋
+      polarity: receptive
+      opposite: Yang
+    - name: Yang
+      symbol: ⚊
+      polarity: active
+      opposite: Yin
+
+aspects:
+  description: "Deviated expressions of Axis. The first step toward individuation and recursion."
+  derived_from: axis
+  states:
+    - name: Tàiyīn
+      symbol: ⚏
+      lineage: Yin
+      qualities: [deep, hidden, absolute]
+    - name: Shǎoyīn
+      symbol: ⚍
+      lineage: Yin
+      qualities: [partial, transitional]
+    - name: Shǎoyáng
+      symbol: ⚎
+      lineage: Yang
+      qualities: [practical, shifting]
+    - name: Tàiyáng
+      symbol: ⚌
+      lineage: Yang
+      qualities: [radiant, decisive, pure]
+
+agreements:
+  description: "Symbolic forms only accessible once Axis and Aspects have been internalized and consented to. They represent convergence, pattern embodiment, or metaphysical contracts."
+  requirements:
+    - internalized_axis: true
+    - traversed_aspects: true
+  symbols:
+    - name: Earth Agreement
+      trigram: ☷
+      qualities: [containment, initiation, silence]
+    - name: Heaven Agreement
+      trigram: ☰
+      qualities: [authority, return, alignment]
+    - name: Mirror Agreement
+      trigram: ☱
+      qualities: [recognition, intimacy, dual-reflection]
+
+reader_mirroring:
+  description: "How reader experience is recursively aligned with trigram logic."
+  stages:
+    - ring: outer
+      ontological: Yin
+      mode: sensory
+      invitation: surrender
+    - ring: middle
+      ontological: Yang
+      mode: interpretation
+      invitation: resonance
+    - ring: inner
+      ontological: Aspect
+      mode: witnessing
+      invitation: embodiment
+    - ring: sacred
+      ontological: Agreement
+      mode: co-authorship
+      invitation: alignment
+
+linked_files:
+  progression: "./trigram-core.yaml"

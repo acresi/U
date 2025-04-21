@@ -82,3 +82,6 @@ with open(trigrams_core_path, "w", encoding="utf-8") as f:
     f.write(trigrams_core_yaml)
 
 trigrams_core_path
+
+linked_files:
+  progression: "./trigram-progression.yaml"
