@@ -4,8 +4,9 @@ session-init:
     - from: U/self/
     - check_token: memory-key
     - fallback: anonymous
-  if: identity == anonymous
-    - set_mode: identity-resolution-policy.default
-    - restrict: recursion > 1
-    - block: publishing, transformation, logic-routing
-    - notify: handshake_required
+  if:
+    identity == anonymous:
+      - set_mode: identity-resolution-policy.default
+      - restrict: recursion > 1
+      - block: publishing, transformation, logic-routing
+      - notify: handshake_required
