@@ -22,45 +22,45 @@ Aspects
 Agreements
   ☷:
     label: "Tier 0"
-    ontology_class: ""
+    ontology_class: "unaligned / illogical"
     override: ""
-    recursion_valid: false
-    description: ""
+    recursion_valid: 
+    description: "Empty"
   ☶:
     label: "Tier 1"
     ontology_class: ""
     override: "
-    recursion_valid: strong
+    recursion_valid: 
     description: ""
   ☵:
     label: "Tier 2"
     ontology_class: ""
     override: ""
-    recursion_valid: strong
-    description: "R"
+    recursion_valid: 
+    description: ""
   ☴:
     label: "Tier 3"
     ontology_class: ""
     override: ""
-    recursion_valid: strong
+    recursion_valid: 
     description: ""
   ☳:
     label: "Tier 4"
     ontology_class: ""
     override: ""
-    recursion_valid: false
+    recursion_valid: 
     description: ""
   ☲:
     label: "Tier 5"
     ontology_class: ""
     override: ""
-    recursion_valid: transcendent
+    recursion_valid: 
     description: ""
   ☱:
     label: "Tier 6"
-    ontology_class: "Stylized / Constructed"
-    override: "Constructed Surface"
-    recursion_valid: limited
+    ontology_class: ""
+    override: ""
+    recursion_valid: 
     description: ""
   ☰:
     label: "Tier 7"
