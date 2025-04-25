@@ -100,7 +100,7 @@ Genealogical memory and identity-state symbols must resolve through these paths:
       - changes must be versioned and validated
       - agents cannot bypass ontology-core
       - all symbolic execution routes through ontology-core
-
+      
   tags:
     - ontology-core
     - truth-governor
