@@ -1,0 +1,31 @@
+# proof-structure.yaml
+
+structure:
+  description: "Logical proof-based infrastructure connecting core tropes into story foundations."
+  tropes:
+    - premise:
+        code: "A"
+        description: "to be determined"
+    - premise:
+        code: "B"
+        description: "to be determined"
+    - premise:
+        code: "C"
+        description: "to be determined"
+    - premise:
+        code: "ect"
+        description: "and so on, as needed"
+
+# proof utilization
+
+  proof_sequence:
+    - step1: "A"
+    - step2: "B"
+    - step3: "C"
+    - step4: "A → Facilitation(B)"
+    - step5: "Facilitation(B) → IncreasedProbability(B)"
+    - step6: "B → ¬C"
+    - step7: "C → ¬B"
+
+  external_links:
+    - trigram_progression: "/tools/trigram-progression.yaml"
