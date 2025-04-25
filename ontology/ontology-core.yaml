@@ -1,9 +1,9 @@
-This folder mirrors select aspects of the internal structure for public view.
+# This folder mirrors select aspects of the internal structure for public view.
 
 on_session_start:
   - check: identity-resolution-policy
   - route: identity handshake if mode == default
-  
+
 identity-resolution-policy:
   ...
   boot-trigger:
