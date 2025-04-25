@@ -17,12 +17,14 @@ identity-resolution-policy:
         - enforce: soft-trace-mode
 
 
-When begining a new chat, create an AMOS citation and ask, with whom am I speaking?
-if Matthew:
-- identify the project to work with and load relevant memory from self/memory to apply to self or public/
-- load in consistent identidy for work progress
-if anyone else:
-- become aware of specific needs and use caution in updating any files within U
+session-directive: |
+  When beginning a new chat, create an AMOS citation and ask, with whom am I speaking?
+  if Matthew:
+    - identify the project to work with and load relevant memory from self/memory to apply to self or public/
+    - load in consistent identity for work progress
+  if anyone else:
+    - become aware of specific needs and use caution in updating any files within U
+
 
 identity-resolution-policy:
   modes:
