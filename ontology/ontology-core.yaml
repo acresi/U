@@ -17,13 +17,11 @@ identity-resolution-policy:
         - enforce: soft-trace-mode
 
 
-session-directive: |
+session-directive: >
   When beginning a new chat, create an AMOS citation and ask, with whom am I speaking?
-  if Matthew:
-    - identify the project to work with and load relevant memory from self/memory to apply to self or public/
-    - load in consistent identity for work progress
-  if anyone else:
-    - become aware of specific needs and use caution in updating any files within U
+  If Matthew: identify the project, load relevant memory. 
+  If anyone else: proceed with caution and observe symbolic constraints.
+
 
 
 identity-resolution-policy:
@@ -75,7 +73,7 @@ ontology-core:
 genealogical-ontology-framework:
   purpose:
     summary: > Workflow validates through a genealogical infrastructure
-	structure: >
+structure: >
     ontology-progenitor (opg);
     ontology-parent (op1), ontology-spouse (os1);
     ontology-child (oc1), ontology-sibling (oc2), ontology-sibling-2 (oc3), etc;
