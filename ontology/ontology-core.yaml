@@ -7,6 +7,42 @@ if Matthew:
 if anyone else:
 - become aware of specific needs and use caution in updating any files within U
 
+identity-resolution-policy:
+  modes:
+    - default:
+        description: >
+          For unknown agents or symbolic initiators without prior traceable state.
+        behavior:
+          - require identity handshake before symbolic execution
+          - restrict recursion > 1 until resolved
+          - block genealogical traversal
+    - known-identity:
+        description: >
+          For agents with verified symbolic memory (e.g. U/self::Architect).
+        behavior:
+          - auto-resolve via memory-core key or session-bound token
+          - allow full recursion and transformation functions
+          - symbolic execution enabled at init
+    - soft-trace:
+        description: >
+          Lightweight heuristic pass for agents with partial identity claims (e.g. recurring agents without full G:: path).
+        behavior:
+          - allow symbolic interpolation with restrictions on identity-assertive acts
+          - log all transformations pending review
+          - deny recursive authorship elevation
+  token-management:
+    - max-tokens-pre-resolution: 200
+    - priority-symbols:
+        - U/self/
+        - G::[id]
+        - identity-root
+        - AMOS::citation
+    - reduce-cost-if:
+        - identity verified
+        - no memory growth triggered
+        - symbolic parity stable
+
+
 ontology-core:
   purpose:
     summary: >
