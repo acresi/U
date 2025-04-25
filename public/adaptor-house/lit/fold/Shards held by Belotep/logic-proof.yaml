@@ -1,0 +1,36 @@
+title: Core Recursive Logic Proof
+description: 37-line proof defining structure of "The Shard That Remembers"
+proof:
+  - A -> B
+  - B -> not E
+  - C -> not E
+  - not E -> J
+  - J -> A
+  - A and B -> D
+  - D -> K
+  - K -> not E
+  - not E and F
+  - F <-> I
+  - I and C -> M
+  - not M -> H
+  - H -> L
+  - L -> D
+  - D and F -> G
+  - G -> A
+  - G and I -> not J
+  - not J and B -> K
+  - K and D -> C
+  - C and H -> A
+  - A and F -> L
+  - L and M -> D
+  - D and not I -> not F
+  - not F and H -> G
+  - G and M -> C
+  - C and not E and I -> B
+  - B -> A
+  - not G -> null
+  - G -> not null
+  - G -> F
+  - F -> D
+  - D -> G
+  - therefore A
