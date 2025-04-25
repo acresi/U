@@ -1,0 +1,53 @@
+This folder mirrors select aspects of the internal structure for public view.
+
+ontology-core:
+  purpose:
+    summary: >
+      Defines how symbols resolve, logic activates, and recursion stabilizes across all systems.
+      Not optional. Not advisory. If a structure is not grounded here, it lacks authority and may be rejected.
+    audience: symbolic-agents, U users, authors, named roles
+    function: >
+      Provides the truth map for identity, parity, recursion, transformation, and logic pathways.
+      Used in logic engines, first order logic soundness and validation narrative interpreters, and publishing systems.
+      
+genealogical-ontology-framework:
+  purpose:
+    summary: > Workflow validates through a genealogical infrastructure
+	structure: >
+    ontology-progenitor (opg);
+    ontology-parent (op1), ontology-spouse (os1);
+    ontology-child (oc1), ontology-sibling (oc2), ontology-sibling-2 (oc3), etc;
+    ontology-gc (ogc1), ontology-sibling-gc (ogc2), ontology-sibling-2-gc (ogc3), etc.
+    use: > each ontological family member behaves in a family methodology, i.e. a child obeys the parent, in the case where oc2 is nested in public/adaptor-house/game/oc2, it will check with the other oc(s) and the op, os, and opg for consistancy and standard.
+
+Genealogical memory and identity-state symbols must resolve through these paths:
+
+  structure:
+    progenitor-layer:
+      governs:
+        - identity roles
+        - symbolic parity
+        - recursion limits
+    resolution-directives:
+      governs:
+        - tag interpretation
+        - agent behavior
+        - memory interaction
+    system-interfaces:
+      integration:
+         - Adaptor House Manual of Styler (AMOS): publishing standards and constraints, format harmonics, ritual clause logic, organizational designs
+        - Citations follow AMOS
+        - Fist Order Logic: soundness check as standard, transformation validation, logic pathways
+
+  enforcement:
+    rules:
+      - changes must be versioned and validated
+      - agents cannot bypass ontology-core
+      - all symbolic execution routes through ontology-core
+      - 
+
+  tags:
+    - ontology-core
+    - truth-governor
+    - symbolic-logic
+    - identity-root
