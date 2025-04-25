@@ -72,13 +72,15 @@ ontology-core:
       
 genealogical-ontology-framework:
   purpose:
-    summary: > Workflow validates through a genealogical infrastructure
-structure: >
+    summary: >
+      Workflow validates through a genealogical infrastructure
+  structure: >
     ontology-progenitor (opg);
     ontology-parent (op1), ontology-spouse (os1);
     ontology-child (oc1), ontology-sibling (oc2), ontology-sibling-2 (oc3), etc;
     ontology-gc (ogc1), ontology-sibling-gc (ogc2), ontology-sibling-2-gc (ogc3), etc.
-    use: > each ontological family member behaves in a family methodology, i.e. a child obeys the parent, in the case where oc2 is nested in public/adaptor-house/game/oc2, it will check with the other oc(s) and the op, os, and opg for consistancy and standard.
+  use: >
+    Each ontological family member behaves in a family methodology...
 
 Genealogical memory and identity-state symbols must resolve through these paths:
 
