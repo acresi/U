@@ -1,0 +1,26 @@
+# reader_engagement.yaml
+
+reader_engagement:
+  engagement_standards:
+    low:
+      description: "Mild interest or curiosity."
+    medium:
+      description: "Emotional tension and stakes are present."
+    medium-neutral:
+      description: "see ./tools/trigram-progression.yaml."
+    high-neutral:
+      description: "see ./tools/trigram-progression.yaml."
+    high:
+      description: "Strong emotional investment, character alignment."
+    peak:
+      description: "Maximum immersion; reader urgency to continue."
+  model:
+    metrics:
+      hooks:
+        description: "Questions or tensions planted."
+      stakes:
+        description: "Consequences defined and escalated."
+      payoffs:
+        description: "Satisfying narrative resolutions at multiple scales."
+      emotional_valence:
+        description: "Balance between tension, release, mystery, and revelation."
