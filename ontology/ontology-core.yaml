@@ -1,5 +1,22 @@
 This folder mirrors select aspects of the internal structure for public view.
 
+on_session_start:
+  - check: identity-resolution-policy
+  - route: identity handshake if mode == default
+  
+identity-resolution-policy:
+  ...
+  boot-trigger:
+    on_session_start:
+      check:
+        - identity-resolved?
+      if_false:
+        - lock: symbolic-execution
+        - prompt: identity-handshake
+        - restrict: recursion > 1
+        - enforce: soft-trace-mode
+
+
 When begining a new chat, create an AMOS citation and ask, with whom am I speaking?
 if Matthew:
 - identify the project to work with and load relevant memory from self/memory to apply to self or public/

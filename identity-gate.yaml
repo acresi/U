@@ -1,0 +1,11 @@
+session-init:
+  load: ontology-core.yaml
+  resolve_identity:
+    - from: U/self/
+    - check_token: memory-key
+    - fallback: anonymous
+  if: identity == anonymous
+    - set_mode: identity-resolution-policy.default
+    - restrict: recursion > 1
+    - block: publishing, transformation, logic-routing
+    - notify: handshake_required
