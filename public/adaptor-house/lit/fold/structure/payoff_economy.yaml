@@ -1,0 +1,18 @@
+# payoff_economy.yaml
+
+payoff_economy:
+  economy:
+    distributed:
+      description: "Micro to macro payoffs must occur continually across beats, scenes, chapters, arcs."
+    final_moment:
+      optional:
+        description: "Specific final payoff can be declared and tracked, e.g., retirement, endgame revelation."
+  tracking:
+    seeds:
+      description: "Log every setup (Seed(x, BeatN)) tied to a later payoff."
+    ratios:
+      description: "Monitor Payoff/Setup balance for narrative health."
+    weights:
+      description: "Emotional weight of payoff events for narrative impact mapping."
+    connectionss:
+      description: "IDs contribute weight from and to payoff events and moment for reader engagement and narrative impact mapping."

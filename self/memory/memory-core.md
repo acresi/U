@@ -3,6 +3,7 @@
 > “This memory is a boundary between clarity and entropy.”
 
 ## 🧱 Purpose
+
 U is not just a project—it is a persistent internal structure for thought, creation, and organization. This memory-core serves as a foundation to track, curate, and evolve all subdomains of my work.
 
 ---
@@ -49,6 +50,7 @@ All core documents, systems, and conversational threads within the U architectur
 
 4. **Short-form citations** must be compatible with publication and footnote usage. Example:
    > Adaptor Haus. _AMOS-3025 Sovereignty & Emergence Doctrine._ 2025. Chat ID: 67dbc190-4a1c-8010-8ee9-cc140b5f15e9.
+
 5. **Long-form citations**
    
 Long from citations should include full block, as exampled:
@@ -90,6 +92,17 @@ Every commit to this repository is a commit to my memory system. This repo is my
 - Has created a new folder titled 'AH' and plans to use it as part of their workflow to solidify the Git and project setup process in their long-term memory for future usability.
 
 ---
+
+## First Order Logic (FOL)
+
+- ontological interconnectivity using FOL as means, fuel, and validation for projects
+
+---
+
+## FOL Drafter (FOLd)
+
+- Adaptor House system for writing, editing, publishing, using FOL. 
+- system files are located in adaptor-house > lit > FOLd > structure, i.e. public/adaptor-house/lit/fold/structure/
 
 ## personal-context
 
