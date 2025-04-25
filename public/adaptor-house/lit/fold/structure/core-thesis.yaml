@@ -1,0 +1,27 @@
+# core_theses.yaml
+
+theses:
+  world:
+    description: "Define the physical, social, and thematic environment."
+    scalability: "Geographic and physical scope."
+  timeframe:
+    description: "Anchor narrative progression in time."
+    scalability: "Linear, non-linear, alternate, asynchronous, synchronous. Timelines: implicit and explicit"
+  culture:
+    description: "Build norms, systems, and conflicts."
+    scalability: "Macro cultures and subcultures."
+  mythos:
+    description: "Create foundational legends and beliefs."
+    scalability: "Regional or global influence."
+  characters:
+    description: "Model individuals through logical structures."
+    scalability: "Individuals, factions, mass movements."
+  story_structure:
+    description: "Organize arcs, beats, acts, and climaxes."
+    scalability: "Multi-threaded storytelling."
+  payoff_economy:
+    description: "Track setups and emotional/narrative payoffs across beats, paragraphs, chapters, arcs, and acts. Explicit long-term payoffs optional."
+    scalability: "Multi-scale economy modeling."
+  reader_involvement:
+    description: "Model sensory immersion, emotional stakes, and intellectual investment."
+    scalability: "Beat to saga-wide engagement."

@@ -1,0 +1,27 @@
+# string_operations.yaml
+
+string_operations:
+  setup:
+    operation: "Setup(x, y)"
+    description: "Introduce an element x at narrative scale y."
+  coherence:
+    operation: "Coherence(x, y, z)"
+    description: "Develop and reinforce an element x at narrative scale y."
+  payoff:
+    operation: "Payoff(x, y, z)"
+    description: "Resolve or emotionally reward an element x at scale y, with optional destination d."
+  foreshadow:
+    operation: "Foreshadow(w, x, y, z)"
+    description: "Plant hints and features about w in both x and y that resolve in z."
+  links_to:
+    operation: "LinksTo(x, y)"
+    description: "Tie dependencies between elements x and y."
+  identities:
+    operation: "ids[(a, Cid),(b, Wid),(c, Cid), (d, Tid)"
+    description: "Enable Character ID. Enable World ID. Enable Culture ID, Enable Timelind ID"
+  drives:
+    operation: "Drives(a, NarrativePurpose)"
+    description: "Propel narrative purpose through beat, arc or act a."
+  engages:
+    operation: "Engages(a, EngagementLevel)"
+    description: "Model reader emotional involvement at narrative scale a."
