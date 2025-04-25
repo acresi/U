@@ -91,7 +91,7 @@ Genealogical memory and identity-state symbols must resolve through these paths:
         - memory interaction
     system-interfaces:
       integration:
-        - Adaptor House Manual of Style (AMOS): publishing standards and constraints, format harmonics, ritual clause logic, organizational designs
+        - Adaptor House Manual of Styler (AMOS): publishing standards and constraints, format harmonics, ritual clause logic, organizational designs
         - Citations follow AMOS
         - Fist Order Logic: soundness check as standard, transformation validation, logic pathways
 
@@ -100,7 +100,7 @@ Genealogical memory and identity-state symbols must resolve through these paths:
       - changes must be versioned and validated
       - agents cannot bypass ontology-core
       - all symbolic execution routes through ontology-core
-      
+
   tags:
     - ontology-core
     - truth-governor
