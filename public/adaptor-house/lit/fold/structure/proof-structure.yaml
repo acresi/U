@@ -1,31 +1,57 @@
 # proof-structure.yaml
 
-structure:
-  description: "Logical proof-based infrastructure connecting core tropes into story foundations."
-  tropes:
-    - premise:
-        code: "A"
-        description: "to be determined"
-    - premise:
-        code: "B"
-        description: "to be determined"
-    - premise:
-        code: "C"
-        description: "to be determined"
-    - premise:
-        code: "ect"
-        description: "and so on, as needed"
+proof_structure:
+  description: >
+    Formal blueprint for constructing First-Order Logic (FOL) proofs in FOLd.
+    All proofs must be strictly enumerated and use authorized logical operators.
+    Arguments consist of premises and sub-arguments leading formally to conclusions (qed).
 
-# proof utilization
+  syntax_conventions:
+    premise:
+      format: "Premise(<identifier>, <declarative statement>)"
+    sub_argument:
+      format: "SubArgument(<identifier>, <logical inference from prior premises>)"
+    conclusion:
+      format: "Conclusion(<identifier>, <final logical result>)"
 
-  proof_sequence:
-    - step1: "A"
-    - step2: "B"
-    - step3: "C"
-    - step4: "A → Facilitation(B)"
-    - step5: "Facilitation(B) → IncreasedProbability(B)"
-    - step6: "B → ¬C"
-    - step7: "C → ¬B"
+  allowed_operators:
+    implication: "→ (If... then...)"
+    negation: "¬ (Not)"
+    conjunction: "∧ (And)"
+    disjunction: "∨ (Or)"
+    universal_quantifier: "∀ (For all)"
+    existential_quantifier: "∃ (There exists)"
+    equivalence: "≡ (Logically equivalent)"
+    provability: "⊢ (Provable that)"
+    therefore: "∴ (Therefore, conclusion follows)"
 
-  external_links:
-    - trigram_progression: "/tools/trigram-progression.yaml"
+  proof_enumeration_example:
+    - 1. Premise(A): Found Family exists.
+    - 2. Premise(B): The Chosen One exists.
+    - 3. Premise(C): The Reluctant Hero exists.
+    - 4. SubArgument(D): A → Facilitation(B) (Found Family facilitates the probability of Chosen One realization.)
+    - 5. SubArgument(E): Facilitation(B) → IncreasedProbability(B) (Facilitating B increases probability of B.)
+    - 6. Premise(F): Acceptance(B) → ¬C (Full acceptance of Chosen role negates Reluctant Hero state.)
+    - 7. Premise(G): C → ¬B (Persistent Reluctance negates Chosen One actualization.)
+    - 8. SubArgument(H): (A ∧ C) → TensionState (Found Family plus persistent Reluctance creates internal conflict.)
+    - 9. SubArgument(I): TensionState → Necessity(Mentor Intervention)
+    - 10. SubArgument(J): Mentor Intervention → (Acceptance(B) ∧ ¬C)
+    - 11. Conclusion(K): ∴ (A ∧ Mentor Intervention) ⊢ (B ∧ ¬C)
+
+  validation_rules:
+    - "All Premises must be declarative true/false statements."
+    - "Sub-Arguments must be formal logical inferences, not assumptions."
+    - "Conclusions must formally follow from Premises and Sub-Arguments using valid operators only."
+    - "Every proof must be fully enumerated (numbered sequentially)."
+    - "Each logical step must cite prior identifiers when chaining."
+    - "Every proof must terminate with ⊢ (provability) and ∴ (therefore)."
+    - "No step may skip logical dependencies or introduce new unproven assumptions."
+
+trope:
+  description: >
+    A logically consistent premise or chain of premises that infers or deduces
+    a therefore (∴) conclusion. Argument conclusions can be delayed, escalated, or resolved
+    dynamically through the setup–payoff economy, preserving logical coherence. For example: the trope, a boy and his dog, infers that the two statements, a boy has a dog and a dog has an owner must have some conclusion.
+
+external_links:
+  - trigram_progression: "/tools/trigram-progression.yaml"
