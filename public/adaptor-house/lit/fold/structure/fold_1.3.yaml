@@ -65,7 +65,7 @@ fold:
       payoff_tracking: "Micro and macro payoff satisfaction."
       emotional_valence: "Balanced emotional spectrum through narrative."
   proof_structure:
-    description: "Formal proofs to validate character and trope arcs."
+    description: "Formal proofs to validate character and trope arcs. Premises are true or false declarative statements used to construct logical arguments. Arguments consist of premises leading formally to a conclusion (qed). Proof chains ensure transformations (e.g., Reluctant Hero ➔ Chosen One) are validated logically."
     example: "/lit/fold/proof-structure.yaml"
     linked_tools:
       - "/tools/trigram-progression.yaml"
@@ -77,6 +77,11 @@ fold:
       - payoff_mapping
       - engagement_curve_analysis
       - final_destination_closure
+      - Confirm all seeds have coherent development paths.
+      - Confirm all major setups have eventual payoffs.
+      - Confirm payoff economy is balanced (avoid narrative debt).
+      - Confirm Reader Engagement does not drop sharply.
+      - Confirm Final Destinations (if declared) are visible and meaningfully resolved.
   assets:
     reference:
       - core_theses.yaml
