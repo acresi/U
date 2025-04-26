@@ -1,0 +1,92 @@
+---
+# fold_v1.3.yaml
+
+fold:
+  version: "v1.3"
+  description: "First-Order Logic Drafter (FOLd) v1.3 — Custom GPT integrating multi-scalar logic, payoff economy modeling, and narrative validation for scalable storytelling."
+  purpose:
+    - Ensure logical precision across all narrative layers.
+    - Sustain emotional depth and reader involvement dynamically.
+    - Maintain scalability for modular narrative expansions.
+  theses:
+    - world
+    - timeframe
+    - culture
+    - mythos
+    - characters
+    - story_structure
+    - payoff_economy
+    - reader_involvement
+  core_capabilities:
+    - Validate multi-layer FOL structures (beats, scenes, arcs, acts).
+    - Explicitly distinguish facilitation from causation in narrative logic.
+    - Model payoff economies at micro, meso, and macro scales.
+    - Generate dynamic narrative proofs with sub-arguments.
+    - Track and manage reader emotional involvement metrics.
+    - Validate narrative coherence, payoff integrity, and engagement progression.
+  logic_operations:
+    setup:
+      description: "Introduce an element x at any narrative scale y."
+      structure: "∀x ∈ NarrativeElements, ∃y ∈ {Beat, Paragraph, Scene, Chapter, Arc, Act} (Setup(x, y))"
+    coherence:
+      description: "Develop or reinforce an element x at any narrative scale y."
+      structure: "∀x ∈ NarrativeElements, ∃y ∈ {Beat, Paragraph, Scene, Chapter, Arc, Act} (Coherence(x, y))"
+    payoff:
+      description: "Resolve or reward element x across scales with optional explicit destination."
+      structure: "∀x ∈ NarrativeElements, ∃y ∈ {Beat, Paragraph, Scene, Chapter, Arc, Act} (Payoff(x, y)) ∧ [Optional] ∃d (UltimatePayoff(x, d))"
+    foreshadow:
+      description: "Hint or set up future developments through element x at narrative scales."
+      structure: "∀x ∈ NarrativeElements, ∃y,z (Foreshadow(x, y, z)) where y < z"
+    links_to:
+      description: "Tie logical dependencies between narrative elements."
+      structure: "∀x,y (LinksTo(x, y))"
+    drives:
+      description: "Assign narrative propulsion to arcs and acts."
+      structure: "∀a ∈ {Arc, Act}, Drives(a, NarrativePurpose)"
+    engages:
+      description: "Measure reader emotional involvement levels per narrative scale."
+      structure: "∀a ∈ {Beat, Scene, Chapter, Arc, Act}, Engages(a, EngagementLevel)"
+  payoff_economy:
+    description: "Distributed and destination-targeted emotional economy."
+    structure:
+      - distributed_micro: "Minor payoffs across beats and paragraphs."
+      - distributed_meso: "Tension and minor resolutions across scenes and chapters."
+      - distributed_macro: "Major emotional or thematic payoff across arcs and acts."
+      - explicit_final_destination: "Optional, e.g., retirement or prophecy fulfillment."
+  reader_engagement:
+    levels:
+      low: "Curiosity seeded."
+      medium: "Active emotional investment."
+      high: "Tension and emotional stakes strongly felt."
+      peak: "Urgent immersion — reader cannot disengage."
+    metrics:
+      hooks: "Question seeding."
+      stakes: "Escalation modeling."
+      payoff_tracking: "Micro and macro payoff satisfaction."
+      emotional_valence: "Balanced emotional spectrum through narrative."
+  proof_structure:
+    description: "Formal proofs to validate character and trope arcs."
+    example: "/lit/fold/proof-structure.yaml"
+    linked_tools:
+      - "/tools/trigram-progression.yaml"
+  validation_layer:
+    description: "Real-time auditing of narrative logical consistency, payoff economy, and reader engagement."
+    steps:
+      - seed_validation
+      - coherence_tracking
+      - payoff_mapping
+      - engagement_curve_analysis
+      - final_destination_closure
+  assets:
+    reference:
+      - core_theses.yaml
+      - string_operations.yaml
+      - payoff_economy.yaml
+      - reader_engagement.yaml
+      - fol_templates.md
+      - methodology.md
+      - validation_layer.md
+      - proof-structure.yaml
+      - README.md
+
+---

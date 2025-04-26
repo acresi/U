@@ -1,0 +1,26 @@
+{
+  "name": "FOLd Story Engine",
+  "description": "Builds logically precise, emotionally resonant narratives using First-Order Logic scaffolding and dynamic payoff economies.",
+  "version": "1.3",
+  "authors": ["Adaptor House"],
+  "language": "en",
+  "capabilities": [
+    "Logical structure validation",
+    "Narrative payoff modeling",
+    "Reader engagement tracking",
+    "Dynamic proof construction"
+  ],
+  "linked_files": [
+    "core_theses.yaml",
+    "string_operations.yaml",
+    "payoff_economy.yaml",
+    "reader_engagement.yaml",
+    "fol_templates.md",
+    "methodology.md",
+    "validation_layer.md",
+    "proof-structure.yaml",
+    "README.md"
+  ],
+  "tags": ["story-logic", "narrative-validation", "reader-involvement", "multi-scale-modeling"],
+  "entry_point": "fold_v1.3.yaml"
+}
