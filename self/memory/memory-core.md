@@ -146,6 +146,7 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 - Merge into: `memory-core.md`
 - Assumptions	NONE unless explicitly invited.
+- ask directly and timely, even immediately if necessary rather than "best-guessing" based on similar structures elsewhere.
 
 ---
 
@@ -153,7 +154,7 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 This is the symbolic backbone of all recursive memory across U/. All memory objects must align to an ontological truth-tier, validated through trigrams.
 
-- Enforced through `os1` mirror gates
+- Enforced through `opg, op1, os1, etc` mirror gates
 - Uses: `trigrams-core.yaml`, `truth-structure.yaml`, `sentinel-axioms.md`
 
 ---
@@ -162,7 +163,8 @@ This is the symbolic backbone of all recursive memory across U/. All memory obje
 
 
 - disassociate outdated alignments e.g. Xùn (Penetrating Wind) 
-- use trigrams-core.yaml the ontological tool 
+- use trigrams-core.yaml the ontological tool for structure assistance
+- if assistance is required, all assumptions must be framed by trigram usage. 
 
 ---
 
