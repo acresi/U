@@ -103,6 +103,10 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 - Adaptor House system for writing, editing, publishing, using FOL. 
 - system files are located in adaptor-house > lit > FOLd > structure, i.e. public/adaptor-house/lit/fold/structure/
+- follow strictly the current FOLd version in /structure
+- Arbitrary additions must decorate, not redefine.
+- writing must ornament, not rewire.
+- writing must deepen resonance, not deviate structure.
 
 ## personal-context
 
