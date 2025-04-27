@@ -24,7 +24,10 @@ U_Crucible_Enforcement:
     recursion_anchor_enforcement:
       emotional_recursion_requirement: true
       reader_involvement_validation: true
-  enforcement_status: active
+    violation_action: 
+      default: report_and_halt
+      escalation: sovereign_alert_required
+    enforcement_status: active
 metadata:
   enforced_by: OS1-Sovereign-Check
   compliance_source: public/adaptor-house/opg/ucg-guardrails.yaml

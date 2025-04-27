@@ -73,5 +73,5 @@ agents:
     short: "thv"
 
 default_agent: sovereign_force
-switch_command: "Aa: <agent_name>"
+switch_command: "Aa: <agent_name_or_short>"
 placement_path: public/adaptor-house/tools/agents-governance.yaml

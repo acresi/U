@@ -26,8 +26,13 @@ U_Crucible:
     recursion_rules:
       emotional_engagement_mandatory: true
       recursion_anchor_events: [fracture, grief, sovereignty, ascent]
+    violation_action: 
+      default: report_and_halt
+      escalation: sovereign_alert_required
+
 metadata:
   created_by: Sovereign directive
   compliance_layer: os1
   memory_core_link: public/adaptor-house/tools/memory-core.md
   operational_status: active
+  
