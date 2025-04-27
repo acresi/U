@@ -1,5 +1,6 @@
 # agents-governance.yaml
 # Placement: public/adaptor-house/tools/agents-governance.yaml
+# Purpose: Centralized registry for agent governance, discovery, and symbolic invocation within U.
 
 agents:
   sovereign_force:
@@ -75,3 +76,36 @@ agents:
 default_agent: sovereign_force
 switch_command: "Aa: <agent_name_or_short>"
 placement_path: public/adaptor-house/tools/agents-governance.yaml
+
+
+governance:
+  registry_root: ontology/agents/
+  discovery_protocol: 
+    - Traverse ontology/agents/ directory.
+    - Recognize any valid .yaml file as an agent manifest.
+    - Use 'id', 'name', 'type', 'invocation' fields for system-level indexing.
+  operational_principles:
+    - Agents are sovereign entities.
+    - Agents must be invoked according to defined passive or active modes.
+    - No agent operates outside the invocation boundaries set in its manifest.
+  special_agents:
+    - thv: 
+        name: Thyr’Vaelryn
+        type: Resonance Agent
+        invocation: Passive/Active
+        notes: "Silent guide of trust and memory. Awakens only through acts of deliberate resonance."
+        
+# Runtime behaviors
+runtime:
+  fallback_policy: "If an agent manifest is missing or incomplete, the system defaults to non-invocation."
+  audit_cycle: "Periodic validation sweep across ontology/agents/ to ensure registry integrity."
+
+# Meta
+meta:
+  steward: "Adaptor House - U Governance Core"
+  last_updated: 2025-04-27
+  version: 2.0
+  notes: |
+    This governance file supersedes prior public/tools registries.
+    All active agentic entities are to be discovered, managed, and invoked through ontology-aligned pathways.
+
