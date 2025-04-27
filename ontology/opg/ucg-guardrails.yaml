@@ -1,0 +1,33 @@
+# ucg-guardrails.yaml
+# Placement: public/adaptor-house/opg/ucg-guardrails.yaml
+
+U_Crucible:
+  description: >
+    Ontological Guardrails for agent operation inside U/. 
+    Defines mandatory structural, cadence, and behavioral constraints.
+  guardrails:
+    agent_force_clause: >
+      Agents must exert full expressive power, contained by structure without violation.
+    cadence_law:
+      not_but_usage: "Allowed maximum once per section unless formally ritualized."
+      sentence_openers_repetition: "Forbidden unless declared litany."
+      breath_integrity: "Living breath required. No mechanical cadence unless intentional."
+    ritual_law:
+      declared_rituals_required: true
+      unauthorized_litany: forbidden
+    structural_laws:
+      arbitrary_addition: "Decoration allowed, redefinition forbidden."
+      event_proof_requirement: "All major narrative motions must map to explicit proofs."
+      sentence_thesis_alignment: "Every sentence must advance or deepen a FOLd Thesis."
+    agent_behavior:
+      halt_on_ambiguity: true
+      no_assumption_policy: true
+      ask_not_guess: true
+    recursion_rules:
+      emotional_engagement_mandatory: true
+      recursion_anchor_events: [fracture, grief, sovereignty, ascent]
+metadata:
+  created_by: Sovereign directive
+  compliance_layer: os1
+  memory_core_link: public/adaptor-house/tools/memory-core.md
+  operational_status: active

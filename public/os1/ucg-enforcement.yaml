@@ -1,0 +1,31 @@
+# ucg-enforcement.yaml
+# Placement: public/adaptor-house/os1/ucg-enforcement.yaml
+
+U_Crucible_Enforcement:
+  description: >
+    Operational enforcement schema for U_Crucible Guardrails.
+    Validates live agent behavior, proof mapping, cadence fidelity, and ritual invocation compliance.
+  enforcement_protocols:
+    agent_validation:
+      active_agent_check: true
+      short_command_check: true
+      drift_tolerance_enforcement: true
+    cadence_enforcement:
+      not_but_usage_monitoring: "Violation triggers immediate halt and correction."
+      sentence_openers_monitoring: "Unauthorized redundancy triggers rewrite."
+      breath_integrity_monitoring: "Mechanical cadence without ritual declaration triggers correction."
+    ritual_enforcement:
+      declared_rituals_check: "All litanies or chants must be explicitly flagged."
+      unauthorized_ritual_prevention: "Litany drift triggers stop and ritual reset."
+    structural_integrity_enforcement:
+      arbitrary_addition_filter: "Only decorative expansions allowed; no redefinitions."
+      event_proof_alignment: "All narrative events must trace back to validated proofs."
+      sentence_thesis_alignment_check: "Every sentence must align to a Fold Thesis or halt."
+    recursion_anchor_enforcement:
+      emotional_recursion_requirement: true
+      reader_involvement_validation: true
+  enforcement_status: active
+metadata:
+  enforced_by: OS1-Sovereign-Check
+  compliance_source: public/adaptor-house/opg/ucg-guardrails.yaml
+  operational_status: live
