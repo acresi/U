@@ -1,0 +1,14 @@
+# violation-ledger.yaml
+
+violations:
+  - timestamp: <ISO time>
+    agent: <active_agent_name>
+    type: cadence_violation
+    severity: minor
+    notes: "Detected redundant sentence openers."
+
+  - timestamp: <ISO time>
+    agent: <active_agent_name>
+    type: proof-drift
+    severity: critical
+    notes: "Major event lacked validated proof linkage."

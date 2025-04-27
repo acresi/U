@@ -114,6 +114,16 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ---
 
+## Active Ontological Structures
+
+- Agent Governance: public/adaptor-house/tools/agents-governance.yaml
+- Law Declaration: public/adaptor-house/opg/ucg-guardrails.yaml
+- Law Enforcement: public/adaptor-house/os1/ucg-enforcement.yaml
+
+These structures govern agent behavior, narrative breathing, ritual invocation, and proof architecture inside U/.
+
+---
+
 ## project-priorities
 
 - The Tyler Genealogy 2020 project is the user's most crucial current work.
