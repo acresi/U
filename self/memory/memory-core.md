@@ -144,8 +144,8 @@ Every commit to this repository is a commit to my memory system. This repo is my
 
 ## project-priorities
 
-- - Merge into: `memory-core.md`
-
+- Merge into: `memory-core.md`
+- Assumptions	NONE unless explicitly invited.
 
 ---
 
