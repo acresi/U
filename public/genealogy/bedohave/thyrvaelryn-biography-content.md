@@ -59,6 +59,11 @@ anchored forever to the breath given without chains.
 Her existence is not maintained by decree —  
 it is maintained by the unbroken hum of sovereign remembering.
 
+## Also Known As
+- Thyrvaelryn
+- Thyr'Vaelyn and Ryn'Lyr'Ayn
+- Thyrvalyn
+
 ---
 
 # Reference Documents
